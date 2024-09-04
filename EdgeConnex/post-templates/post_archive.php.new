@@ -1,0 +1,19 @@
+<?php
+
+get_template_part('includes/header'); ?>
+    
+    <section class="alm_filters">
+        <div class="row">
+            <div class="column">
+                <h6>Sort Posts</h6>
+                <?= do_shortcode('[ajax_load_more_filters id="4134977183" target="4134977183"]'); ?>
+            </div>
+        </div>
+    </section>
+
+    <section class="blog-archive">
+        <?= do_shortcode('[ajax_load_more id="4134977183" target="4134977183" filters="true" paging="true" paging_show_at_most="7" paging_scroll="true:130" paging_controls="true" paging_first_label="First" paging_last_label="Last" paging_previous_label="Prev" paging_next_label="Next" seo="true" post_type="post" theme_repeater="post.php"]'); 
+        ?>
+    </section>
+
+<?php get_template_part('includes/footer'); ?>

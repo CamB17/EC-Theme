@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="303px" height="82px" viewBox="0 0 303 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ResourceTiles-R3" transform="translate(-81.000000, -191.000000)" fill="#F4F7F9">
+            <g id="Resource-1" transform="translate(81.000000, 136.000000)">
+                <g id="Group-25" transform="translate(0.000000, 53.000000)">
+                    <g style="mix-blend-mode: multiply;" transform="translate(104.500000, 43.000000) rotate(180.000000) translate(-104.500000, -43.000000) translate(-94.000000, 2.000000)">
+                        <path d="M269.859758,36 L0,36 L0,26.2540095 C0,11.7546597 11.7028595,-5.68434189e-14 26.1393786,-5.68434189e-14 L296,-5.68434189e-14 L296,9.74599046 C296,24.2453403 284.296277,36 269.859758,36" id="Fill-10"></path>
+                        <path d="M311.823482,82 L162,82 L162,72.2540095 C162,57.7546597 173.7191,46 188.176518,46 L338,46 L338,55.7459905 C338,70.2453403 326.280036,82 311.823482,82" id="Fill-13"></path>
+                        <path d="M125.907793,82 L54,82 L54,72.2540095 C54,57.7546597 65.6813546,46 80.0913455,46 L152,46 L152,55.7459905 C152,70.2462072 140.317784,82 125.907793,82" id="Fill-19"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

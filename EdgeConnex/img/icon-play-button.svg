@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="118px" viewBox="0 0 118 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Play Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Testimonial-Slider" transform="translate(-1396.000000, -191.000000)">
+            <g id="Play-Button">
+                <g transform="translate(1396.000000, 191.000000)">
+                    <circle id="Oval-2" fill="#FFCF3D" cx="59" cy="59" r="59"></circle>
+                    <path d="M82.7470374,60.7064939 L46.0430141,83.1401008 C45.1005435,83.7161416 43.8695468,83.4190916 43.2935061,82.476621 C43.1015628,82.1625793 43,81.8016618 43,81.4336069 L43,36.5663931 C43,35.4618236 43.8954305,34.5663931 45,34.5663931 C45.3680549,34.5663931 45.7289724,34.6679559 46.0430141,34.8598992 L82.7470374,57.2935061 C83.689508,57.8695468 83.986558,59.1005435 83.4105172,60.0430141 C83.2450991,60.3136577 83.017681,60.5410758 82.7470374,60.7064939 Z" id="Triangle" fill="#27588D"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

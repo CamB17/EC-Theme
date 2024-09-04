@@ -1,0 +1,266 @@
+{
+    "key": "group_5952c6ec81122",
+    "title": "Button Group - Clone",
+    "fields": [
+        {
+            "key": "field_5952c6ec878f6",
+            "label": "Button Text",
+            "name": "button_text",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": "",
+            "readonly": 0,
+            "disabled": 0
+        },
+        {
+            "key": "field_5952c6ec87981",
+            "label": "Button Color",
+            "name": "button_color",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "primary": "Blue",
+                "secondary": "Dark Blue",
+                "tertiary": "White",
+                "text_large": "Text (Large)",
+                "text_small": "Text (small)"
+            },
+            "default_value": "primary",
+            "return_format": "value",
+            "multiple": 0,
+            "max": "",
+            "prepend": "",
+            "append": "",
+            "allow_null": 0,
+            "ui": 0,
+            "acfe_field_group_condition": 0,
+            "ajax": 0,
+            "placeholder": "",
+            "allow_custom": 0,
+            "search_placeholder": "",
+            "min": ""
+        },
+        {
+            "key": "field_5952c6ec87a71",
+            "label": "Open in a New Tab",
+            "name": "open_in_a_new_tab",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": "",
+            "style": ""
+        },
+        {
+            "key": "field_5952c6ec87ae5",
+            "label": "URL Type",
+            "name": "url_type",
+            "aria-label": "",
+            "type": "radio",
+            "instructions": "Please pick a URL Type. If you pick WordPress Content you will be able to search for content existing on this site. If you pick URL you will need to supply the URL to which this button will link.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "URL": "URL",
+                "wordpress_content": "WordPress Content",
+                "Media": "Media"
+            },
+            "allow_null": 0,
+            "other_choice": 0,
+            "default_value": "URL",
+            "layout": "vertical",
+            "return_format": "value",
+            "save_other_choice": 0
+        },
+        {
+            "key": "field_5952c6ec87b59",
+            "label": "WordPress Content",
+            "name": "wordpress_content",
+            "aria-label": "",
+            "type": "post_object",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5952c6ec87ae5",
+                        "operator": "==",
+                        "value": "wordpress_content"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": "",
+            "taxonomy": "",
+            "allow_null": 0,
+            "multiple": 0,
+            "return_format": "id",
+            "ui": 1,
+            "save_custom": 0,
+            "save_post_type": "",
+            "save_post_status": "",
+            "acfe_add_post": 0,
+            "acfe_edit_post": 0,
+            "min": "",
+            "max": ""
+        },
+        {
+            "key": "field_5952c6ec87bcd",
+            "label": "URL",
+            "name": "url",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5952c6ec87ae5",
+                        "operator": "==",
+                        "value": "URL"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": "",
+            "readonly": 0,
+            "disabled": 0
+        },
+        {
+            "key": "field_5e45bd80f359b",
+            "label": "Media",
+            "name": "media",
+            "aria-label": "",
+            "type": "post_object",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5952c6ec87ae5",
+                        "operator": "==",
+                        "value": "Media"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "attachment"
+            ],
+            "taxonomy": "",
+            "allow_null": 0,
+            "multiple": 0,
+            "return_format": "object",
+            "ui": 1,
+            "save_custom": 0,
+            "save_post_type": "",
+            "save_post_status": "",
+            "acfe_add_post": 0,
+            "acfe_edit_post": 0,
+            "min": "",
+            "max": ""
+        },
+        {
+            "key": "field_63e173efa4ba5",
+            "label": "Auto Download Parameter",
+            "name": "auto_download_parameter",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Set this to a desired URL parameter for this to auto-download on arrival. For example, if \"sheet1\" was entered here, visiting this page with ?sheet1 appended to the URL would download this automatically. <br><strong>Do not add spaces or special characters to this field<\/strong>",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "datasheet",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            },
+            {
+                "param": "post_type",
+                "operator": "!=",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "acfe_autosync": [
+        "json"
+    ],
+    "acfe_form": 0,
+    "acfe_display_title": "",
+    "acfe_meta": "",
+    "acfe_note": "",
+    "modified": 1679335588
+}

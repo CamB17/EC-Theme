@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="851px" height="105px" viewBox="0 0 851 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>motion-grid-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="851" height="105"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="motion-grid-2">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.194266183"></g>
+            <g id="sep-5" mask="url(#mask-2)" fill-rule="nonzero">
+                <path d="M329.801705,105 L133,105 L133,92.81797 C133,74.691511 147.863983,60 166.198295,60 L363,60 L363,72.18203 C363,90.306301 348.136017,105 329.801705,105" id="Fill-1" fill="#E6EAED" transform="translate(248.000000, 82.500000) rotate(-180.000000) translate(-248.000000, -82.500000) "></path>
+                <path d="M823,105 L823,92.81797 C823,74.691511 837.863983,60 856.198295,60 L1145.19829,60 L1145.19829,72.18203 C1145.19829,90.306301 1130.33431,105 1112,105 L823,105 Z" id="Fill-1-Copy" fill="#E6EAED" transform="translate(984.099147, 82.500000) rotate(-180.000000) translate(-984.099147, -82.500000) "></path>
+                <path d="M81.0653493,105 L0,105 L0,92.81797 C0,74.691511 14.7459409,60 32.9346507,60 L114,60 L114,72.18203 C114,90.306301 99.2540591,105 81.0653493,105" id="Fill-3" fill="#DEE4E8" transform="translate(57.000000, 82.500000) rotate(-180.000000) translate(-57.000000, -82.500000) "></path>
+                <path d="M611.778668,105 L382,105 L382,92.81797 C382,74.691511 396.874298,60 415.221332,60 L645,60 L645,72.18203 C645,90.306301 630.125702,105 611.778668,105" id="Fill-5" fill="#FFCF3D" transform="translate(513.500000, 82.500000) rotate(-180.000000) translate(-513.500000, -82.500000) "></path>
+                <path d="M662.795208,45 L320,45 L320,32.8179697 C320,14.6915111 334.866892,0 353.204792,0 L696,0 L696,12.1820303 C696,30.3063011 681.133108,45 662.795208,45" id="Fill-7" fill="#DEE4E8" transform="translate(508.000000, 22.500000) rotate(-180.000000) translate(-508.000000, -22.500000) "></path>
+                <path d="M267.833244,45 L78,45 L78,32.8179697 C78,14.6915111 92.8476511,0 111.166756,0 L301,0 L301,12.1820303 C301,30.3063011 286.150138,45 267.833244,45" id="Fill-9" fill="#E6EAED" transform="translate(189.500000, 22.500000) rotate(-180.000000) translate(-189.500000, -22.500000) "></path>
+                <path d="M715,45 L715,32.8179697 C715,14.6915111 729.847651,1.13686838e-13 748.166756,1.13686838e-13 L1178.16676,1.13686838e-13 L1178.16676,12.1820303 C1178.16676,30.3063011 1163.31689,45 1145,45 L715,45 Z" id="Fill-9-Copy" fill="#DE3439" transform="translate(946.583378, 22.500000) rotate(-180.000000) translate(-946.583378, -22.500000) "></path>
+                <path d="M663,105 L663,92.81797 C663,74.691511 677.88851,60 696.258027,60 L804,60 L804,72.18203 C804,90.306301 789.11149,105 770.741973,105 L663,105 Z" id="Fill-15" fill="#E6EAED" transform="translate(733.500000, 82.500000) rotate(-180.000000) translate(-733.500000, -82.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

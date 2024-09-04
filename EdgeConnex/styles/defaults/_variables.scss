@@ -1,0 +1,44 @@
+$global-font-size: 100%;
+$global-width: rem-calc(1200);
+$global-lineheight: 1.5;
+
+$green: #009247;
+$light_blue: #459AD6;
+$light_blue_new: #019cdb;
+$lightest-gray: #bac3c9;
+$black: #0a0a0a;
+$white: #ffffff;
+$dark-gray: #484b5a;
+$light-gray: #F4F7F9;
+$light-gray-hover: #D7DFE3;
+$gray: #959CA0;
+$blue: #029cdb;
+$medium-gray: #494B59;
+$dark-blue: #27588d;
+$yellow: #ffcf3d;
+$gray_border: #979797;
+$red: #db3237; //Updated for ada contrast (original color #de3439)
+$body-background: $white;
+$body-font-color: $black;
+$sans: 'proxima-nova';
+$header: 'univia-pro';
+$font_extra_bold: 'proxima-nova-extrabold';
+$font_medium: 'proxima-nova-medium';
+$font_bold: 'proxima-nova-bold';
+$body-font-family: $sans;
+
+// 1.1 Advanced Module Settings
+
+$small-spacing: 35;
+$medium-spacing: 70;
+$large-spacing: 105;
+
+$foundation-palette: (
+  primary: $blue,
+  secondary: $dark-blue,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #ec5840,
+);
+$primary: map-get($foundation-palette, primary);
+$secondary: map-get($foundation-palette, secondary);

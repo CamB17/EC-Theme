@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="105px" viewBox="0 0 107 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Whitepaper</title>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EdgeConneX-Page-Builder---Elements-R1" transform="translate(-733.000000, -18811.000000)" stroke="#019CDB" stroke-width="5">
+            <g id="Featured/Recent-Resources" transform="translate(0.000000, 18285.000000)">
+                <g id="Tile2" transform="translate(686.000000, 479.000000)">
+                    <g id="Whitepaper" transform="translate(50.000000, 50.000000)">
+                        <line x1="13.0435633" y1="26.0871267" x2="32.6089083" y2="26.0871267" id="Stroke-1" stroke-linecap="round"></line>
+                        <line x1="13.0435633" y1="39.13069" x2="47.8263989" y2="39.13069" id="Stroke-2" stroke-linecap="round"></line>
+                        <line x1="13.0435633" y1="52.1742533" x2="39.13069" y2="52.1742533" id="Stroke-3" stroke-linecap="round"></line>
+                        <line x1="13.0435633" y1="65.2178166" x2="34.7828355" y2="65.2178166" id="Stroke-4" stroke-linecap="round"></line>
+                        <polygon id="Stroke-5" stroke-linecap="round" points="67.3889178 93.4795227 52.1736011 97.8273771 56.5214556 82.6120605 89.1325378 50.0009783 100 60.8684404"></polygon>
+                        <line x1="80.4353072" y1="58.696035" x2="91.3049433" y2="69.5656711" id="Stroke-7"></line>
+                        <g id="Group-14">
+                            <line x1="56.5221078" y1="82.6092344" x2="67.3917439" y2="93.4788705" id="Stroke-8" stroke-linecap="round"></line>
+                            <polyline id="Stroke-10" points="45.6524716 91.3049433 0 91.3049433 0 0 47.8263989 0 69.5656711 21.7392722 69.4874097 50.152501"></polyline>
+                            <polyline id="Stroke-12" stroke-linecap="round" points="47.8263989 0 47.8263989 21.7392722 69.5656711 21.7392722"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

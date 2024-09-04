@@ -1,0 +1,435 @@
+{
+    "key": "group_5988c6146e821",
+    "title": "Advanced Module Settings - Clone",
+    "fields": [
+        {
+            "key": "field_5988ceab9c5ca",
+            "label": "Description",
+            "name": "",
+            "aria-label": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "This tab is for advanced use only and contains advanced settings for additional customization. Not every setting will take affect for every module. For example, modules with a Background Image cannot have a new Background Color assigned.",
+            "new_lines": "wpautop",
+            "esc_html": 0
+        },
+        {
+            "key": "field_5988c633c7111",
+            "label": "Background Color",
+            "name": "background_color",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "Please note that not all modules have been designed out to work correctly with different background colors.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "70",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Default (White)",
+                "light-gray-bg": "Light Gray",
+                "dark-gray-bg": "Dark Gray",
+                "dark-blue-bg": "Dark Blue"
+            },
+            "default_value": false,
+            "return_format": "value",
+            "multiple": 0,
+            "max": "",
+            "prepend": "",
+            "append": "",
+            "allow_null": 0,
+            "ui": 0,
+            "acfe_field_group_condition": 0,
+            "ajax": 0,
+            "placeholder": "",
+            "allow_custom": 0,
+            "search_placeholder": "",
+            "min": ""
+        },
+        {
+            "key": "field_5db0c5de09d1d",
+            "label": "Show Motion Grid",
+            "name": "show_motion_grid",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "30",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": "",
+            "style": ""
+        },
+        {
+            "key": "field_5988c6b6c7112",
+            "label": "Top Padding",
+            "name": "top_padding",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Default",
+                "zero-padding-top": "No Padding",
+                "small-padding-top": "Small",
+                "medium-padding-top": "Medium",
+                "large-padding-top": "Large",
+                "custom-padding-top": "Custom"
+            },
+            "default_value": false,
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": "",
+            "allow_custom": 0,
+            "search_placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": ""
+        },
+        {
+            "key": "field_5988d00fa29c9",
+            "label": "Custom Top Padding",
+            "name": "custom_top_padding",
+            "aria-label": "",
+            "type": "number",
+            "instructions": "Just the number. Can be negative.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5988c6b6c7112",
+                        "operator": "==",
+                        "value": "custom-padding-top"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": 1
+        },
+        {
+            "key": "field_5988c6dac7113",
+            "label": "Bottom Padding",
+            "name": "bottom_padding",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Default",
+                "zero-padding-bottom": "No Padding",
+                "small-padding-bottom": "Small",
+                "medium-padding-bottom": "Medium",
+                "large-padding-bottom": "Large",
+                "custom-padding-bottom": "Custom"
+            },
+            "default_value": false,
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": "",
+            "allow_custom": 0,
+            "search_placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": ""
+        },
+        {
+            "key": "field_5988d01ea29ca",
+            "label": "Custom Bottom Padding",
+            "name": "custom_bottom_padding",
+            "aria-label": "",
+            "type": "number",
+            "instructions": "Just the number. Can be negative.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5988c6dac7113",
+                        "operator": "==",
+                        "value": "custom-padding-bottom"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": 1
+        },
+        {
+            "key": "field_5988cf79a29c7",
+            "label": "Top Margin",
+            "name": "top_margin",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Default",
+                "zero-margin-top": "No Margin",
+                "small-margin-top": "Small",
+                "medium-margin-top": "Medium",
+                "large-margin-top": "Large",
+                "custom-margin-top": "Custom"
+            },
+            "default_value": false,
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": "",
+            "allow_custom": 0,
+            "search_placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": ""
+        },
+        {
+            "key": "field_5988cfb2a29c8",
+            "label": "Custom Top Margin",
+            "name": "custom_top_margin",
+            "aria-label": "",
+            "type": "number",
+            "instructions": "Just the number. Can be negative.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5988cf79a29c7",
+                        "operator": "==",
+                        "value": "custom-margin-top"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": 1
+        },
+        {
+            "key": "field_5988d069a29cc",
+            "label": "Bottom Margin",
+            "name": "bottom_margin",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Default",
+                "zero-margin-bottom": "No Margin",
+                "small-margin-bottom": "Small",
+                "medium-margin-bottom": "Medium",
+                "large-margin-bottom": "Large",
+                "custom-margin-bottom": "Custom"
+            },
+            "default_value": false,
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": "",
+            "allow_custom": 0,
+            "search_placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": ""
+        },
+        {
+            "key": "field_5988d02ca29cb",
+            "label": "Custom Bottom Margin",
+            "name": "custom_bottom_margin",
+            "aria-label": "",
+            "type": "number",
+            "instructions": "Just the number. Can be negative.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5988d069a29cc",
+                        "operator": "==",
+                        "value": "custom-margin-bottom"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": 1
+        },
+        {
+            "key": "field_5988d24d6cc90",
+            "label": "Custom CSS Classes",
+            "name": "custom_css_classes",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Add one or multiple CSS classes to this module.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5988d2876cc91",
+            "label": "Custom Inline CSS",
+            "name": "custom_inline_css",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Example: color:#000000;text-align:center;",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5a0b6b07a7a07",
+            "label": "Custom ID",
+            "name": "custom_id",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Instead of giving this a custom class you can add a custom ID. This is especially useful for the in-page navigation. This should not include the hashtag. Example: content",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            },
+            {
+                "param": "post_type",
+                "operator": "!=",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "acfe_autosync": [
+        "json"
+    ],
+    "acfe_form": 0,
+    "acfe_display_title": "",
+    "acfe_meta": "",
+    "acfe_note": "",
+    "modified": 1679335631
+}

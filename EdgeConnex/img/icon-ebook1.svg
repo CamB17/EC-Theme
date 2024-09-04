@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="102px" viewBox="0 0 77 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/whitepaper</title>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="EdgeConneX-Page-Builder---Elements-R1" transform="translate(-147.000000, -18812.000000)" stroke="#019CDB" stroke-width="5">
+            <g id="Featured/Recent-Resources" transform="translate(0.000000, 18285.000000)">
+                <g id="Tile-1" transform="translate(85.000000, 479.000000)">
+                    <g id="Group" transform="translate(50.000000, 50.000000)">
+                        <g id="Group-7" transform="translate(15.000000, 0.998239)">
+                            <polygon id="Stroke-1" points="58.4347826 62.4984131 45.9130435 49.9987305 33.3913043 62.4984131 33.3913043 12.4996826 58.4347826 12.4996826"></polygon>
+                            <g id="Group-6">
+                                <path d="M58.4347826,16.6662435 L70.9565217,16.6662435 L70.9565217,95.8309001 L8.34782609,95.8309001 C3.73773913,95.8309001 0,92.0997448 0,87.4977783 L0,8.33312174" id="Stroke-2"></path>
+                                <path d="M66.7826087,16.6662435 L66.7826087,0 L8.34782609,0 C3.73773913,0 0,3.73115526 0,8.33312174 C0,12.9350882 3.73773913,16.6662435 8.34782609,16.6662435 L33.3913043,16.6662435" id="Stroke-4"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

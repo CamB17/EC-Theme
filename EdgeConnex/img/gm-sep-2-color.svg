@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="83px" viewBox="0 0 283 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>gm-sep-2-colored</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gm-sep-2-colored">
+            <g id="Group-25-Copy" transform="translate(141.500000, 41.500000) rotate(180.000000) translate(-141.500000, -41.500000) ">
+                <path d="M154.9,36 L8.64019967e-12,36 L8.64019967e-12,26.3 C8.64019967e-12,11.8 11.7,-8.64019967e-12 26.1,-8.64019967e-12 L181,-8.64019967e-12 L181,9.7 C181,24.2 169.3,36 154.9,36" id="Fill-1" fill="#F4F7F9"></path>
+                <path d="M256.7,36 L192,36 L192,26.3 C192,11.8 203.8,-8.64019967e-12 218.3,-8.64019967e-12 L283,-8.64019967e-12 L283,9.7 C283,24.2 271.2,36 256.7,36" id="Fill-4" fill="#FFCF3D"></path>
+                <path d="M0.9,65 C0.9,55.3333333 0.9,49.3333333 0.9,47 L27,47 L27,56.7 C27,71.2 15.3,83 0.9,83 L0.9,65 Z" id="Fill-10" fill="#27588D"></path>
+                <path d="M187.8,83 L38,83 L38,73.3 C38,58.8 49.7,47 64.2,47 L214,47 L214,56.7 C214,71.2 202.3,83 187.8,83" id="Fill-13" fill="#019CDB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

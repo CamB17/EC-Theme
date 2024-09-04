@@ -1,0 +1,48 @@
+/**@mixin vertical-align($position: relative, $top: 50%) {
+  position: $position;
+  top: $top;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  display: block;
+}**/
+@mixin padding() {
+  padding-top:40px;
+  padding-bottom:40px;
+  @include lt-lg() {
+    padding-top:40px;
+    padding-bottom:40px;
+  }
+  @include lt-md() {
+    padding-top:40px;
+    padding-bottom:40px;
+  }
+}
+@mixin heading() {
+  margin-bottom:60px;
+  max-width: 1100px;
+  .title {
+      h2 {
+          margin: 20px 0px;
+      }
+  }
+  .cta {
+      display: flex;
+      align-items: center;
+      .button {
+          margin: 0px;
+      }
+  }
+}
+/**
+ * Computes a CSS calc function that betweens a value from
+ * A to B over viewport-width A to viewport-width B.
+ * Requires a media query to cap the value at B.
+ */
+
+@function between($from, $to, $fromWidth, $toWidth) {
+  $slope: ($to - $from) / ($toWidth - $fromWidth);
+  $base: $from - $slope * $fromWidth;
+
+  @return calc(#{$base} + #{100vw * $slope});
+}

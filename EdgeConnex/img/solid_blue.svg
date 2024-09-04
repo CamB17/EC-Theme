@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="609px" viewBox="0 0 1920 609" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Color</title>
+    <defs>
+        <radialGradient cx="8.34835673e-16%" cy="1.994932e-15%" fx="8.34835673e-16%" fy="1.994932e-15%" r="284.657106%" gradientTransform="translate(0, 0), scale(0.3172, 1), rotate(17.6827), translate(-0, -0)" id="radialGradient-1">
+            <stop stop-color="#27588D" offset="0%"></stop>
+            <stop stop-color="#1479B3" offset="51.2214568%"></stop>
+            <stop stop-color="#0B8AC6" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-2" points="0 1074 1920 1074 1920 1683 0 1683"></polygon>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-R8-V1" transform="translate(0, -1074)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Color" fill="url(#radialGradient-1)" style="mix-blend-mode: multiply;" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>

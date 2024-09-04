@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="100px" viewBox="0 0 75 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/infographic</title>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/infographic" transform="translate(3, 2.9965)" stroke="#019CDB" stroke-width="5">
+            <g id="Group-5">
+                <polygon id="Stroke-1" points="69.4782609 93.834423 0 93.834423 0 0 44.9565217 0 69.4782609 24.4785451"></polygon>
+                <polyline id="Stroke-3" points="44.9565217 0 44.9565217 24.4785451 69.4782609 24.4785451"></polyline>
+            </g>
+            <path d="M9.37777778,61.5394567 C9.37777778,69.8100188 16.082393,76.514634 24.3529551,76.514634 C32.6235171,76.514634 39.3281324,69.8100188 39.3281324,61.5394567 C39.3281324,53.2688947 32.6235171,46.5642794 24.3529551,46.5642794 C16.082393,46.5642794 9.37777778,53.2688947 9.37777778,61.5394567" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M39.3281324,60.1945986 L46.5976359,60.1945986 C48.6050539,60.1945986 50.2323877,58.5672648 50.2323877,56.5598468 L50.2323877,39.1493858 C50.2323877,37.1419678 48.6050539,35.514634 46.5976359,35.514634 L29.1871749,35.514634 C27.179757,35.514634 25.5524232,37.1419678 25.5524232,39.1493858 L25.5524232,46.6369745" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+            <line x1="10.5555556" y1="23.7813007" x2="34.5" y2="23.5035229" id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.5556, 23.5591) rotate(0.6647) translate(-22.5556, -23.5591)"></line>
+            <line x1="47.29" y1="72.0035229" x2="59.77" y2="83.0035229" id="Path-Copy-3" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="9.55555556" y1="13.3368562" x2="34.5" y2="13.5035229" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+            <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" points="47.09 81.5035229 47.09 71.5035229 57.09 71.5035229"></polyline>
+        </g>
+    </g>
+</svg>

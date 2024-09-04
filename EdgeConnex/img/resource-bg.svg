@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="303px" height="129px" viewBox="0 0 303 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="303" height="131"></rect>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ResourceTiles-R2a" transform="translate(-947.000000, -660.000000)">
+            <g id="Resource-3-Copy" transform="translate(947.000000, 616.000000)">
+                <g id="Group-25" transform="translate(0.000000, 42.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g style="mix-blend-mode: multiply;" mask="url(#mask-2)" fill="#F4F7F9">
+                        <g transform="translate(78.500000, 66.500000) rotate(180.000000) translate(-78.500000, -66.500000) translate(-146.000000, 2.000000)">
+                            <path d="M422.874065,36 L268,36 L268,26.2540095 C268,11.7546597 279.696454,0 294.125072,0 L449,0 L449,9.74599046 C449,24.2453403 437.302683,36 422.874065,36" id="Fill-1"></path>
+                            <path d="M231.852159,36 L51,36 L51,26.2540095 C51,11.7546597 62.7062617,0 77.1469776,0 L258,0 L258,9.74599046 C258,24.2453403 246.292875,36 231.852159,36" id="Fill-7"></path>
+                            <path d="M269.859758,83 L0,83 L0,73.2540095 C0,58.7546597 11.7028595,47 26.1393786,47 L296,47 L296,56.7459905 C296,71.2453403 284.296277,83 269.859758,83" id="Fill-10"></path>
+                            <path d="M311.823482,129 L162,129 L162,119.25401 C162,104.75466 173.7191,93 188.176518,93 L338,93 L338,102.74599 C338,117.24534 326.280036,129 311.823482,129" id="Fill-13"></path>
+                            <path d="M125.907793,129 L54,129 L54,119.25401 C54,104.75466 65.6813546,93 80.0913455,93 L152,93 L152,102.74599 C152,117.246207 140.317784,129 125.907793,129" id="Fill-19"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

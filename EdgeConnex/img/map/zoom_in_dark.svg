@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="r" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Location-Map-Mobile-R2" transform="translate(-12, -386)">
+            <g id="Group-4-Copy-2" transform="translate(-5, 69.953)">
+                <g id="Home-Global-View" transform="translate(0, 51.047)">
+                    <g id="Group-4" transform="translate(17.4812, 265)">
+                        <path d="M7.02586207,0 L25.25,8.8817842e-16 C28.9779221,2.03370247e-16 32,3.02207794 32,6.75 L32,32.6423903 L32,32.6423903 L0.275862069,32.6423903 L0.275862069,6.75 C0.275862069,3.02207794 3.29794001,6.84808173e-16 7.02586207,0 Z" id="Rectangle" fill="#27588D"></path>
+                        <text id="+" fill="#D8D8D8" fill-rule="nonzero" font-family="ProximaNova-Extrabld, Proxima Nova" font-size="28.125" font-weight="700">
+                            <tspan x="8.8703125" y="26">+</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

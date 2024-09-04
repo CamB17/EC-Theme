@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Close</title>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Supermenu-R2" transform="translate(-1789.000000, -96.000000)" fill="#FFFFFF">
+            <g id="Close" transform="translate(1789.000000, 96.000000)">
+                <path d="M-8.00862197,24.991378 L61.991378,24.991378 C64.200517,24.991378 65.991378,26.782239 65.991378,28.991378 L65.991378,32.991378 L65.991378,32.991378 L-4.00862197,32.991378 C-6.21776097,32.991378 -8.00862197,31.200517 -8.00862197,28.991378 L-8.00862197,24.991378 L-8.00862197,24.991378 Z" id="Rectangle-Copy" transform="translate(28.991378, 28.991378) rotate(45.000000) translate(-28.991378, -28.991378) "></path>
+                <path d="M-8.00862197,24.991378 L61.991378,24.991378 C64.200517,24.991378 65.991378,26.782239 65.991378,28.991378 L65.991378,32.991378 L65.991378,32.991378 L-4.00862197,32.991378 C-6.21776097,32.991378 -8.00862197,31.200517 -8.00862197,28.991378 L-8.00862197,24.991378 L-8.00862197,24.991378 Z" id="Rectangle-Copy-2" transform="translate(28.991378, 28.991378) rotate(-45.000000) translate(-28.991378, -28.991378) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

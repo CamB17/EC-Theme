@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="r" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Location-Page-Desktop-R2" transform="translate(-89, -1438)">
+            <g id="Home-Zoom-View" transform="translate(87, 172.91)">
+                <g id="Group-2" transform="translate(2, 1265.094)">
+                    <path d="M12.5,0 L46,0 C52.627417,-1.21743675e-15 58,5.372583 58,12 L58,57.5 L58,57.5 L0.5,57.5 L0.5,12 C0.5,5.372583 5.872583,1.21743675e-15 12.5,0 Z" id="Rectangle" fill="#019CDB"></path>
+                    <text id="+" font-family="ProximaNova-Extrabld, Proxima Nova" font-size="50" font-weight="700" fill="#FFFFFF">
+                        <tspan x="16.325" y="46">+</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

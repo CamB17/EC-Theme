@@ -1,0 +1,58 @@
+{
+    "key": "group_5d37cabae5679",
+    "title": "Custom Schema",
+    "fields": [
+        {
+            "key": "field_5d37cae108f50",
+            "label": "",
+            "name": "custom_schema",
+            "aria-label": "",
+            "type": "acf_code_field",
+            "instructions": "Advanced users only.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "<script type='application\/ld+json'>\r\n\r\n<\/script>",
+            "placeholder": "",
+            "mode": "javascript",
+            "theme": "monokai"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ],
+        [
+            {
+                "param": "post_type",
+                "operator": "!=",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 10,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "Add your custom schema code into this box.",
+    "show_in_rest": 0,
+    "acfe_autosync": [
+        "json"
+    ],
+    "acfe_form": 0,
+    "acfe_display_title": "",
+    "acfe_meta": "",
+    "acfe_note": "",
+    "modified": 1710265146
+}
